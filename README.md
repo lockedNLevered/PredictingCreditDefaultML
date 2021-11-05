@@ -1,4 +1,4 @@
-# credit_default_notebook
+# Prediciting Credit Default with Machine Learning
 
 This notebook is based on the data set used in the academic paper:
 "The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. (Yeh I. C. & Lien C. H.,2009)"
